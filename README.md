@@ -32,5 +32,5 @@
 
 ### 1. Скачайте проект
 ```bash
-git clone https://github.com/ваш_ник/CoilVPN.git
+https://github.com/Shavermushka/CoilVPN.git
 cd CoilVPN
