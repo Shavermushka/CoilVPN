@@ -1,0 +1,7 @@
+# Общие зависимости для сервера и клиента
+requests>=2.25.0
+cryptography>=3.4.0
+flask>=2.0.0
+
+# Специфичные для Windows (клиент)
+pytun3>=1.0.0; sys_platform == 'win32'
