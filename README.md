@@ -33,7 +33,7 @@
 
 ### 1. Скачайте проект
 ```bash
-https://github.com/Shavermushka/CoilVPN.git
+git clone https://github.com/Shavermushka/CoilVPN.git
 cd CoilVPN
 ```
 ### 2. Установите зависимости
